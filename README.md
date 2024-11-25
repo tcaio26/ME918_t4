@@ -26,14 +26,19 @@ Estas estatísticas se encontram disponíveis para cada variável numérica no b
 
 Também é possível gerar 4 tipos de gráficos. Para acessá-los, clique na aba "Gráficos" e escolha o tipo de gráfico desejado no painel à esquerda. Os tipos disponíveis são:
 
-**Boxplot**\\
+
+**Boxplot**
+
 No painel à esquerda, selecione a variável numérica que deseja para o boxplot.
 
-**Histograma**\\
+**Histograma**
+
 No painel à esquerda, selecione a variável numérica e o número de colunas desejado.
 
-**Gráfico de pontos/dispersão**\\
+**Gráfico de pontos/dispersão**
+
 No painel à esquerda, selecione as duas variáveis desejadas, começando pela variável do eixo X.
 
-**Matriz de correlação**\\
+**Matriz de correlação**
+
 Matriz com gráficos de dispersão, densidade, e correlação para todas as variáveis ou par de variáveis numéricas. Só será gerado para um banco com 10 ou menos variáveis numéricas. No painel à esquerda, selecione uma variável categórica para destacar no gráfico, ou deixe em vazio.
